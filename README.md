@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ai4embodied
-- 👀 We are interested in Embodied Artifitial Intelligence
+- 👀 We are interested in Embodied Artificial Intelligence
 - 📫 How to reach me: ai4embodied@gmail.com
 
 <!---
